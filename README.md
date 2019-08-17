@@ -1,7 +1,7 @@
 # 分布式爬虫从零开始
 
 
-## 有点事情，拖更两天，不好意思了各位
+## 拖更了这么久。。终于回来了，明天更新，会重新整理目录结构，这段时间也是，想了很多东西，坚决不能烂尾
 
 - 在拟定计划中。。。。。。一定会做好。
 - 在学习之前请务必掌握一些python基础知识，之后我们就可以开始了！
@@ -11,11 +11,12 @@
 
 # 目录
 
+- [引言 ](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/引言.md)
 - [01 - 爬虫预备知识](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E7%88%AC%E8%99%AB%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
 - [02 - 请求分析流程](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E8%AF%B7%E6%B1%82%E5%88%86%E6%9E%90.md)
 - [03 - requests模块的使用](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 - [04 - 数据提取概念和数据的分类](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/%E6%95%B0%E6%8D%AE%E6%8F%90%E5%8F%96%E6%A6%82%E5%BF%B5%E5%92%8C%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E7%B1%BB.md)
-- [05 - JSON](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/JOSN%20%E6%95%B0%E6%8D%AE%E6%8F%90%E5%8F%96.md)
+- [05 - JSON数据提取](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/JSON数据提取.md)
 - [06 - re 正则表达式提取数据](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero/blob/master/06%20-%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%20%E6%8F%90%E5%8F%96%E6%95%B0%E6%8D%AE.md)
 
 
